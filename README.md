@@ -71,5 +71,13 @@ O projeto segue uma lógica analítica estruturada:
 
 ---
 
+## 📥 Download dos dados
+
+Os dados utilizados no projeto estão armazenados no Google Drive:
+
+https://drive.google.com/drive/folders/1H5dTmGJVsSVL-nxUe4qe98lAhX6eqrN1
+
+---
+
 ## 📬 Contato
 Caso queira trocar ideias ou sugerir melhorias, fique à vontade para entrar em contato.
